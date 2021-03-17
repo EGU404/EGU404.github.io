@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이지유"
 description              : "시스템 프로그램을 위한 C언어"
-url                      : "https://github.com/EGU404/EGU404.github.io"
+url                      : "http://egu404.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "EGU404/EGU404.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

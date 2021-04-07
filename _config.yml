@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "이지유"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/assets/images/dsBuffer.png" # path of avatar image, e.g.
   bio              : "행복한 고구마"
   location         : "대한민국, 서울"
   email            : "21-21021@hafs.hs.kr"

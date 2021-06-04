@@ -22,4 +22,19 @@ toc_label: "페이지 주요 목차"
 
 {% include video id="L4ZunGm2GhE" provider="youtube" %}
 
-들으면 내가 다 행복해지는 기분 너무 좋다,,,
+들으면 내가 다 행복해지는 기분 너무 좋다,,,  
+  
+  
+자 지금까지는 대중에게 많이 알려진 레전드 교차편집들이었고요!!  
+이제부터는 마이데이가 몰래 뒤에서 듣는 노래의 교차편집들을 보여드릴게용 히히히히좋
+
+### 04. 좋아합니다
+
+{% include video id="cIphiLQ7gRU" provider="youtube" %}
+
+데이식스는 멤버들 자작곡이라는 게 너무 좋아 ㅠㅡㅠㅡㅠㅡㅠ
+
+### 05. 그렇더라고요
+
+{% include video id="Vyh1VsuW9DE" provider="youtube" %}
+
